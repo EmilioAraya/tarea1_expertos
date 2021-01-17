@@ -1,0 +1,28 @@
+/*CSS muy sencillo aplicado al index.php*/
+body { 
+    padding-top: 70px; 
+}
+
+#section
+{
+    background-color:#9F81F7;
+}
+
+#login-form{ 
+
+background:#e1e4e7; 
+border: 3 px solid #9F81F7; 
+padding:9px 9px;
+ border-radius:5px; 
+}
+
+
+  
+  /* Change background on mouse-over */
+  .navbar a:hover {
+    background: #9F81F7;
+  }
+  
+  a {
+    color: black;
+  }
